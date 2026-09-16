@@ -99,6 +99,14 @@ Excel performs the core numerical calculations. AI assists with interpreting pat
 - AI tools
 - Markdown
 
+## Tech Stack
+
+- Microsoft Excel — Financial modelling, formulas, scenario analysis
+- Excel Charts — Dashboard visualisation
+- Markdown — Project documentation
+- Git & GitHub — Version control and portfolio management
+- AI Tools — Assisted financial insight generation and interpretation
+
 ## Project Highlights
 
 - Built an Excel-based personal financial planning and analysis model.
