@@ -99,6 +99,19 @@ Excel performs the core numerical calculations. AI assists with interpreting pat
 - AI tools
 - Markdown
 
+## Project Highlights
+
+- Built an Excel-based personal financial planning and analysis model.
+- Designed a structured transaction system for tracking income, expenses, and investments.
+- Developed monthly financial analysis using Excel formulas including SUMIF and ratio calculations.
+- Built a net worth model covering assets, investments, liabilities, and net worth.
+- Created an investment projection model using compound-growth calculations.
+- Implemented Conservative, Base, and Optimistic investment-return scenarios.
+- Applied the 4% rule as a simplified financial-freedom planning assumption.
+- Built an interactive financial dashboard with KPI metrics and data visualizations.
+- Integrated AI-assisted interpretation to generate structured financial insights.
+- Documented assumptions, limitations, responsible analysis practices, and future improvements.
+
 ## Project Structure
 
 ```text
