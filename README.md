@@ -110,6 +110,17 @@ Financial Freedom Planner
 ├── 4. AI Insights
 ├── 5. Documentation
 └── 6. Final Project
+## Key Results
+
+| Metric | Result |
+|---|---:|
+| Monthly Income | ₹60,000 |
+| Savings Rate | 53.67% |
+| Current Net Worth | ₹3,00,000 |
+| Financial Freedom Target | ₹1.50 Cr |
+| Projected Portfolio at Age 45 | ₹1.88 Cr |
+| Projected Surplus | ₹37.86 Lakh |
+
 
 ## Dashboard Preview
 
