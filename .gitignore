@@ -1,0 +1,21 @@
+# Personal / raw financial data
+1. Raw Data/
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python files
+__pycache__/
+*.pyc
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+*.env
