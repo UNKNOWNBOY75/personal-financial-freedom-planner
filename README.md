@@ -110,3 +110,7 @@ Financial Freedom Planner
 ├── 4. AI Insights
 ├── 5. Documentation
 └── 6. Final Project
+
+## Dashboard Preview
+
+![Financial Freedom Planner Dashboard](3.%20Dashboard/dashboard.png)
