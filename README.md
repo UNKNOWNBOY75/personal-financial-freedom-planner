@@ -110,6 +110,7 @@ Financial Freedom Planner
 ├── 4. AI Insights
 ├── 5. Documentation
 └── 6. Final Project
+```
 ## Key Results
 
 | Metric | Result |
